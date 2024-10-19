@@ -1,0 +1,14 @@
+#En si pensando que vamos a hacer algo parecido a la pagina que nos acabaron de dar 
+#los pasos a seguir seran:
+
+1: Modificacion de colores, en si colocar colores que me gusten pero a la ves que llamen la atencion de las personas
+2: Mi pagina sera de renta de servidores
+¿Que tratara?: Hare como una pagina que te digan los precios y las especificaciones de los servidores
+3: Quiero hacer una pagina a las ves simple que no tenga mucha cosa una pagina que no sea tan aburrida
+¿A que me refiero "aburrida"?: Cuando me refiero a aburrida me refiero a una pagina con mucho texto o que tenga muchas cosas
+4: Me inspirare en unas paginas
+¿Como cuales?: En la renta de servidores pero de minecraft esas paginas me parecen un poco simples pero a las ves no tanto
+5: Mi pagina tendra imagenes y un titulo y un lema
+6: Mi titulo o nombre de la pagina sera: NodesCraft
+7: Mi lema sera "Los mejores servidores en varias regiones"
+#En ves de lema creo que seria como un titulo que sea relacionado a esa pagina
